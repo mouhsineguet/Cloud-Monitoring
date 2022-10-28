@@ -9,3 +9,10 @@ Cloud Monitoring ingests that data and generates insights via dashboards, charts
 ## Problem Scenario:
 How to monitor a Compute Engine virtual machine (VM) instance with Cloud Monitoring. 
 We'll also install monitoring and logging agents for our VM which collects more information from our instance, which could include metrics and logs from 3rd party apps.
+
+## Ops agents
+The Ops Agent collects logs and metrics on Compute Engine instances, sending the logs to Cloud Logging and the metrics to Cloud Monitoring.
+
+## dashboard and chart
+You can display the metrics collected by Cloud Monitoring in your own charts and dashboards. In this section you create the charts for the lab metrics and a custom dashboard.
+https://cdn.qwiklabs.com/oy66BwJ59YBeOeKsiKFzEA8NA2Pd0t2kjdFBVtbTXdw%3D
