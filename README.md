@@ -15,4 +15,8 @@ The Ops Agent collects logs and metrics on Compute Engine instances, sending the
 
 ## dashboard and chart
 You can display the metrics collected by Cloud Monitoring in your own charts and dashboards. In this section you create the charts for the lab metrics and a custom dashboard.
-https://cdn.qwiklabs.com/oy66BwJ59YBeOeKsiKFzEA8NA2Pd0t2kjdFBVtbTXdw%3D
+![alt text](https://cdn.qwiklabs.com/oy66BwJ59YBeOeKsiKFzEA8NA2Pd0t2kjdFBVtbTXdw%3D?raw=true)
+
+## View logs
+![alt text](https://cdn.qwiklabs.com/Dworh3OlQlv1T49AJjYB%2BeK5SGTsEad9h0qPo0LJsws%3D?raw=true)
+
